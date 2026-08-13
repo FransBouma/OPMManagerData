@@ -114,7 +114,7 @@
       "MajorVersion": 1,
       "MinorVersion": 0,
       "PatchVersion": 25,
-      "ReleaseDate": "2026-04-22T13:17:32.373",
+      "ReleaseDate": "2026-08-13T13:44:11.45",
       "ToolExecutable": "IGCSClient.exe"
     }
   },
@@ -187,23 +187,6 @@
     }
   },
   {
-    "CameraToolID": 20,
-    "GameName": "Dragon Age The VeilGuard",
-    "NameForDistribution": "DragonAgeTheVeilGuard",
-    "PatreonPostURL": "https://www.patreon.com/posts/115233049",
-    "DocumentationURL": "https://opm.fransbouma.com/Cameras/dav.htm",
-    "HasManualSetupSteps": false,
-    "HeaderURL": "https://raw.githubusercontent.com/FransBouma/OPMManagerData/refs/heads/main/headers/davheader.jpg",
-    "AllowOutdatedInstalledVersions": false,
-    "LatestVersion": {
-      "MajorVersion": 1,
-      "MinorVersion": 0,
-      "PatchVersion": 8,
-      "ReleaseDate": "2026-01-16T19:22:56",
-      "ToolExecutable": "IGCSClient.exe"
-    }
-  },
-  {
     "CameraToolID": 14,
     "GameName": "Dragon Age: Inquisition",
     "NameForDistribution": "DragonAgeInquisition",
@@ -217,6 +200,23 @@
       "MinorVersion": 0,
       "PatchVersion": 0,
       "ReleaseDate": "2024-07-05T16:33:51.027",
+      "ToolExecutable": "IGCSClient.exe"
+    }
+  },
+  {
+    "CameraToolID": 20,
+    "GameName": "Dragon Age: The Veilguard",
+    "NameForDistribution": "DragonAgeTheVeilguard",
+    "PatreonPostURL": "https://www.patreon.com/posts/115233049",
+    "DocumentationURL": "https://opm.fransbouma.com/Cameras/dav.htm",
+    "HasManualSetupSteps": false,
+    "HeaderURL": "https://raw.githubusercontent.com/FransBouma/OPMManagerData/refs/heads/main/headers/davheader.jpg",
+    "AllowOutdatedInstalledVersions": false,
+    "LatestVersion": {
+      "MajorVersion": 1,
+      "MinorVersion": 0,
+      "PatchVersion": 8,
+      "ReleaseDate": "2026-01-16T19:22:56",
       "ToolExecutable": "IGCSClient.exe"
     }
   },
@@ -529,7 +529,7 @@
   {
     "CameraToolID": 12,
     "GameName": "Spider-man & Miles Morales",
-    "NameForDistribution": "Spiderman_and_MM",
+    "NameForDistribution": "SpidermanAndMM",
     "PatreonPostURL": "https://www.patreon.com/posts/70794077",
     "DocumentationURL": "https://opm.fransbouma.com/Cameras/spider-man.htm",
     "HasManualSetupSteps": true,
@@ -623,8 +623,8 @@
     "LatestVersion": {
       "MajorVersion": 5,
       "MinorVersion": 8,
-      "PatchVersion": 22,
-      "ReleaseDate": "2026-08-05T10:07:56.057",
+      "PatchVersion": 21,
+      "ReleaseDate": "2026-08-04T17:33:21.433",
       "ToolExecutable": "IGCSClient.exe"
     }
   },
@@ -869,7 +869,7 @@
   {
     "CameraToolID": 1054,
     "GameName": "Immortals Fenyx Rising",
-    "NameForDistribution": "ImmortalsFenixRising",
+    "NameForDistribution": "ImmortalsFenyxRising",
     "PatreonPostURL": "https://www.patreon.com/posts/49230945",
     "DocumentationURL": "https://opm.fransbouma.com/Cameras/fenyxrising.htm",
     "HasManualSetupSteps": false,
@@ -954,7 +954,7 @@
   {
     "CameraToolID": 1059,
     "GameName": "Ratchet & Clank: Rift Apart",
-    "NameForDistribution": "RatchedAndClankRiftApart",
+    "NameForDistribution": "RatchetAndClankRiftApart",
     "PatreonPostURL": "https://www.patreon.com/posts/86746455",
     "DocumentationURL": "https://opm.fransbouma.com/Cameras/rncriftapart.htm",
     "HasManualSetupSteps": true,
