@@ -131,7 +131,7 @@
       "MajorVersion": 1,
       "MinorVersion": 0,
       "PatchVersion": 20,
-      "ReleaseDate": "2026-08-26T10:25:19.1282642+02:00",
+      "ReleaseDate": "2026-08-26T10:25:19.127",
       "ToolExecutable": "IGCSClient.exe"
     }
   },
@@ -527,6 +527,23 @@
     }
   },
   {
+    "CameraToolID": 42,
+    "GameName": "Resonance: A Plague Tale Legacy",
+    "NameForDistribution": "ResonanceAPT",
+    "PatreonPostURL": "https://www.patreon.com/Otis_Inf/posts/resonance-plague-167847473",
+    "DocumentationURL": "https://opm.fransbouma.com/Cameras/resonanceapt.htm",
+    "HasManualSetupSteps": false,
+    "HeaderURL": "https://raw.githubusercontent.com/FransBouma/OPMManagerData/refs/heads/main/headers/resonanceaptheader.jpg",
+    "AllowOutdatedInstalledVersions": false,
+    "LatestVersion": {
+      "MajorVersion": 1,
+      "MinorVersion": 0,
+      "PatchVersion": 0,
+      "ReleaseDate": "2026-08-27T14:11:44.9348388+02:00",
+      "ToolExecutable": "IGCSClient.exe"
+    }
+  },
+  {
     "CameraToolID": 12,
     "GameName": "Spider-man & Miles Morales",
     "NameForDistribution": "SpidermanAndMM",
@@ -629,7 +646,7 @@
     }
   },
   {
-    "CameraToolID": 1040,
+    "CameraToolID": 1042,
     "GameName": "A Plague Tale: Innocence",
     "NameForDistribution": "APlagueTaleInnocence",
     "PatreonPostURL": "https://www.patreon.com/posts/53632590",
@@ -646,7 +663,7 @@
     }
   },
   {
-    "CameraToolID": 1041,
+    "CameraToolID": 1043,
     "GameName": "A Plague Tale: Requiem",
     "NameForDistribution": "APTRequiem",
     "PatreonPostURL": "https://www.patreon.com/posts/plague-tale-mod-73452150",
@@ -663,7 +680,7 @@
     }
   },
   {
-    "CameraToolID": 1042,
+    "CameraToolID": 1044,
     "GameName": "Assassin's Creed Odyssey",
     "NameForDistribution": "ACOdyssey",
     "PatreonPostURL": "https://www.patreon.com/posts/58350363",
@@ -680,7 +697,7 @@
     }
   },
   {
-    "CameraToolID": 1043,
+    "CameraToolID": 1045,
     "GameName": "Assassin's Creed Origins",
     "NameForDistribution": "ACOrigins",
     "PatreonPostURL": "https://www.patreon.com/posts/67567459",
@@ -697,7 +714,7 @@
     }
   },
   {
-    "CameraToolID": 1044,
+    "CameraToolID": 1046,
     "GameName": "Assassin's Creed Valhalla",
     "NameForDistribution": "ACValhalla",
     "PatreonPostURL": "https://www.patreon.com/posts/49229839",
@@ -714,7 +731,7 @@
     }
   },
   {
-    "CameraToolID": 1045,
+    "CameraToolID": 1047,
     "GameName": "Batman Arkham Knight",
     "NameForDistribution": "BatmanArkhamKnight",
     "PatreonPostURL": "https://www.patreon.com/posts/50106230",
@@ -731,7 +748,7 @@
     }
   },
   {
-    "CameraToolID": 1046,
+    "CameraToolID": 1048,
     "GameName": "Dead Space",
     "NameForDistribution": "DeadSpace",
     "PatreonPostURL": "https://www.patreon.com/posts/78006155",
@@ -748,7 +765,7 @@
     }
   },
   {
-    "CameraToolID": 1047,
+    "CameraToolID": 1049,
     "GameName": "Death Stranding",
     "NameForDistribution": "DeathStranding",
     "PatreonPostURL": "https://www.patreon.com/posts/65421100",
@@ -765,7 +782,7 @@
     }
   },
   {
-    "CameraToolID": 1048,
+    "CameraToolID": 1050,
     "GameName": "Death Stranding Directors Cut",
     "NameForDistribution": "DeathStrandingDirectorsCut",
     "PatreonPostURL": "https://www.patreon.com/posts/65421100",
@@ -782,7 +799,7 @@
     }
   },
   {
-    "CameraToolID": 1049,
+    "CameraToolID": 1051,
     "GameName": "Devil May Cry 5",
     "NameForDistribution": "DMC5",
     "PatreonPostURL": "https://www.patreon.com/posts/51261387",
@@ -799,7 +816,7 @@
     }
   },
   {
-    "CameraToolID": 1050,
+    "CameraToolID": 1052,
     "GameName": "Far Cry 6",
     "NameForDistribution": "FarCry6",
     "PatreonPostURL": "https://www.patreon.com/posts/57449160",
@@ -816,7 +833,7 @@
     }
   },
   {
-    "CameraToolID": 1051,
+    "CameraToolID": 1053,
     "GameName": "God of War",
     "NameForDistribution": "GodOfWar",
     "PatreonPostURL": "https://www.patreon.com/posts/61336173",
@@ -833,7 +850,7 @@
     }
   },
   {
-    "CameraToolID": 1052,
+    "CameraToolID": 1054,
     "GameName": "Guardians of the Galaxy",
     "NameForDistribution": "GotG",
     "PatreonPostURL": "https://www.patreon.com/posts/58072567",
@@ -850,7 +867,7 @@
     }
   },
   {
-    "CameraToolID": 1053,
+    "CameraToolID": 1055,
     "GameName": "Horizon Zero Dawn",
     "NameForDistribution": "HorizonZeroDawn",
     "PatreonPostURL": "https://www.patreon.com/posts/50346719",
@@ -867,7 +884,7 @@
     }
   },
   {
-    "CameraToolID": 1054,
+    "CameraToolID": 1056,
     "GameName": "Immortals Fenyx Rising",
     "NameForDistribution": "ImmortalsFenyxRising",
     "PatreonPostURL": "https://www.patreon.com/posts/49230945",
@@ -884,7 +901,7 @@
     }
   },
   {
-    "CameraToolID": 1055,
+    "CameraToolID": 1057,
     "GameName": "The Last of Us I",
     "NameForDistribution": "TLoU1",
     "PatreonPostURL": "https://www.patreon.com/posts/80883159",
@@ -901,7 +918,7 @@
     }
   },
   {
-    "CameraToolID": 1056,
+    "CameraToolID": 1058,
     "GameName": "Monster Hunter: World",
     "NameForDistribution": "MHW",
     "PatreonPostURL": "https://www.patreon.com/posts/53250874",
@@ -918,7 +935,7 @@
     }
   },
   {
-    "CameraToolID": 1057,
+    "CameraToolID": 1059,
     "GameName": "NieR: Automata",
     "NameForDistribution": "NieRAutomata",
     "PatreonPostURL": "https://www.patreon.com/posts/53948552",
@@ -935,7 +952,7 @@
     }
   },
   {
-    "CameraToolID": 1058,
+    "CameraToolID": 1060,
     "GameName": "NieR Replicant ver.1.22474487139",
     "NameForDistribution": "NieRReplicant",
     "PatreonPostURL": "https://www.patreon.com/posts/50579449",
@@ -952,7 +969,7 @@
     }
   },
   {
-    "CameraToolID": 1059,
+    "CameraToolID": 1061,
     "GameName": "Ratchet & Clank: Rift Apart",
     "NameForDistribution": "RatchetAndClankRiftApart",
     "PatreonPostURL": "https://www.patreon.com/posts/86746455",
@@ -969,7 +986,7 @@
     }
   },
   {
-    "CameraToolID": 1060,
+    "CameraToolID": 1062,
     "GameName": "Resident Evil 2",
     "NameForDistribution": "RE2",
     "PatreonPostURL": "https://www.patreon.com/posts/67849809",
@@ -986,7 +1003,7 @@
     }
   },
   {
-    "CameraToolID": 1061,
+    "CameraToolID": 1063,
     "GameName": "Resident Evil 3",
     "NameForDistribution": "RE3",
     "PatreonPostURL": "https://www.patreon.com/posts/67808683",
@@ -1003,7 +1020,7 @@
     }
   },
   {
-    "CameraToolID": 1062,
+    "CameraToolID": 1064,
     "GameName": "Resident Evil 4 Remake",
     "NameForDistribution": "ResidentEvil4Remake",
     "PatreonPostURL": "https://www.patreon.com/posts/79961510",
@@ -1020,7 +1037,7 @@
     }
   },
   {
-    "CameraToolID": 1063,
+    "CameraToolID": 1065,
     "GameName": "Rise of the Tomb Raider",
     "NameForDistribution": "ROTTR",
     "PatreonPostURL": "https://www.patreon.com/posts/52802888",
@@ -1037,7 +1054,7 @@
     }
   },
   {
-    "CameraToolID": 1064,
+    "CameraToolID": 1066,
     "GameName": "Shadow of the Tomb Raider",
     "NameForDistribution": "SOTTR",
     "PatreonPostURL": "https://www.patreon.com/posts/60759061",
@@ -1054,7 +1071,7 @@
     }
   },
   {
-    "CameraToolID": 1065,
+    "CameraToolID": 1067,
     "GameName": "Steelrising",
     "NameForDistribution": "Steelrising",
     "PatreonPostURL": "https://www.patreon.com/posts/71817296",
@@ -1071,7 +1088,7 @@
     }
   },
   {
-    "CameraToolID": 1066,
+    "CameraToolID": 1068,
     "GameName": "The Witcher 3: Wild Hunt Classic",
     "NameForDistribution": "TheWitcher3WildHuntClassic",
     "PatreonPostURL": "https://www.patreon.com/posts/66490413",
@@ -1088,7 +1105,7 @@
     }
   },
   {
-    "CameraToolID": 1067,
+    "CameraToolID": 1069,
     "GameName": "The Witcher 3: Wild Hunt Next Gen",
     "NameForDistribution": "TheWitcher3WildHuntNextGen",
     "PatreonPostURL": "https://www.patreon.com/posts/66490413",
@@ -1105,7 +1122,7 @@
     }
   },
   {
-    "CameraToolID": 1068,
+    "CameraToolID": 1070,
     "GameName": "Uncharted: Legacy of Thieves Collection",
     "NameForDistribution": "UnchartedLoTC",
     "PatreonPostURL": "https://www.patreon.com/posts/73804435",
