@@ -12,7 +12,7 @@
       "MajorVersion": 1,
       "MinorVersion": 0,
       "PatchVersion": 2,
-      "ReleaseDate": "2026-08-22T10:53:11.353",
+      "ReleaseDate": "2026-08-28T18:28:46.32",
       "ToolExecutable": "IGCSClient.exe"
     }
   },
@@ -539,7 +539,7 @@
       "MajorVersion": 1,
       "MinorVersion": 0,
       "PatchVersion": 0,
-      "ReleaseDate": "2026-08-27T14:11:44.9348388+02:00",
+      "ReleaseDate": "2026-08-27T14:11:44.933",
       "ToolExecutable": "IGCSClient.exe"
     }
   },
@@ -640,8 +640,8 @@
     "LatestVersion": {
       "MajorVersion": 5,
       "MinorVersion": 8,
-      "PatchVersion": 25,
-      "ReleaseDate": "2026-08-27T18:30:42.4574848+02:00",
+      "PatchVersion": 26,
+      "ReleaseDate": "2026-09-03T10:19:03.4045963+02:00",
       "ToolExecutable": "IGCSClient.exe"
     }
   },
