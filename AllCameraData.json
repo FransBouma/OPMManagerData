@@ -130,8 +130,8 @@
     "LatestVersion": {
       "MajorVersion": 1,
       "MinorVersion": 0,
-      "PatchVersion": 0,
-      "ReleaseDate": "2026-09-25T18:04:23.6286181+02:00",
+      "PatchVersion": 2,
+      "ReleaseDate": "2026-09-28T16:04:33.5574127+02:00",
       "ToolExecutable": "IGCSClient.exe"
     }
   },
