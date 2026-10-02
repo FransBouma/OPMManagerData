@@ -12,7 +12,7 @@
       "MajorVersion": 1,
       "MinorVersion": 0,
       "PatchVersion": 3,
-      "ReleaseDate": "2026-10-02T08:35:57.4346065+02:00",
+      "ReleaseDate": "2026-10-02T08:35:57.433",
       "ToolExecutable": "IGCSClient.exe"
     }
   },
@@ -183,6 +183,23 @@
       "MinorVersion": 0,
       "PatchVersion": 3,
       "ReleaseDate": "2026-07-05T10:54:07.383",
+      "ToolExecutable": "IGCSClient.exe"
+    }
+  },
+  {
+    "CameraToolID": 45,
+    "GameName": "Devil May Cry 5",
+    "NameForDistribution": "DMC5",
+    "PatreonPostURL": "https://www.patreon.com/posts/51261387",
+    "DocumentationURL": "https://opm.fransbouma.com/Cameras/dmc5.htm",
+    "HasManualSetupSteps": false,
+    "HeaderURL": "https://raw.githubusercontent.com/FransBouma/OPMManagerData/refs/heads/main/headers/dmc5header.jpg",
+    "AllowOutdatedInstalledVersions": false,
+    "LatestVersion": {
+      "MajorVersion": 1,
+      "MinorVersion": 0,
+      "PatchVersion": 9,
+      "ReleaseDate": "2026-10-02T11:15:11.1205207+02:00",
       "ToolExecutable": "IGCSClient.exe"
     }
   },
@@ -680,7 +697,7 @@
     }
   },
   {
-    "CameraToolID": 1044,
+    "CameraToolID": 1045,
     "GameName": "A Plague Tale: Innocence",
     "NameForDistribution": "APlagueTaleInnocence",
     "PatreonPostURL": "https://www.patreon.com/posts/53632590",
@@ -697,7 +714,7 @@
     }
   },
   {
-    "CameraToolID": 1045,
+    "CameraToolID": 1046,
     "GameName": "A Plague Tale: Requiem",
     "NameForDistribution": "APTRequiem",
     "PatreonPostURL": "https://www.patreon.com/posts/plague-tale-mod-73452150",
@@ -714,7 +731,7 @@
     }
   },
   {
-    "CameraToolID": 1046,
+    "CameraToolID": 1047,
     "GameName": "Assassin's Creed Odyssey",
     "NameForDistribution": "ACOdyssey",
     "PatreonPostURL": "https://www.patreon.com/posts/58350363",
@@ -731,7 +748,7 @@
     }
   },
   {
-    "CameraToolID": 1047,
+    "CameraToolID": 1048,
     "GameName": "Assassin's Creed Origins",
     "NameForDistribution": "ACOrigins",
     "PatreonPostURL": "https://www.patreon.com/posts/67567459",
@@ -748,7 +765,7 @@
     }
   },
   {
-    "CameraToolID": 1048,
+    "CameraToolID": 1049,
     "GameName": "Assassin's Creed Valhalla",
     "NameForDistribution": "ACValhalla",
     "PatreonPostURL": "https://www.patreon.com/posts/49229839",
@@ -765,7 +782,7 @@
     }
   },
   {
-    "CameraToolID": 1049,
+    "CameraToolID": 1050,
     "GameName": "Batman Arkham Knight",
     "NameForDistribution": "BatmanArkhamKnight",
     "PatreonPostURL": "https://www.patreon.com/posts/50106230",
@@ -782,7 +799,7 @@
     }
   },
   {
-    "CameraToolID": 1050,
+    "CameraToolID": 1051,
     "GameName": "Dead Space",
     "NameForDistribution": "DeadSpace",
     "PatreonPostURL": "https://www.patreon.com/posts/78006155",
@@ -799,7 +816,7 @@
     }
   },
   {
-    "CameraToolID": 1051,
+    "CameraToolID": 1052,
     "GameName": "Death Stranding",
     "NameForDistribution": "DeathStranding",
     "PatreonPostURL": "https://www.patreon.com/posts/65421100",
@@ -816,7 +833,7 @@
     }
   },
   {
-    "CameraToolID": 1052,
+    "CameraToolID": 1053,
     "GameName": "Death Stranding Directors Cut",
     "NameForDistribution": "DeathStrandingDirectorsCut",
     "PatreonPostURL": "https://www.patreon.com/posts/65421100",
@@ -829,23 +846,6 @@
       "MinorVersion": 0,
       "PatchVersion": 4,
       "ReleaseDate": "2022-09-28T00:00:00",
-      "ToolExecutable": "IGCSClient.exe"
-    }
-  },
-  {
-    "CameraToolID": 1053,
-    "GameName": "Devil May Cry 5",
-    "NameForDistribution": "DMC5",
-    "PatreonPostURL": "https://www.patreon.com/posts/51261387",
-    "DocumentationURL": "https://opm.fransbouma.com/Cameras/dmc5.htm",
-    "HasManualSetupSteps": false,
-    "HeaderURL": "https://raw.githubusercontent.com/FransBouma/OPMManagerData/refs/heads/main/headers/dmc5header.jpg",
-    "AllowOutdatedInstalledVersions": false,
-    "LatestVersion": {
-      "MajorVersion": 1,
-      "MinorVersion": 0,
-      "PatchVersion": 8,
-      "ReleaseDate": "2024-01-18T00:00:00",
       "ToolExecutable": "IGCSClient.exe"
     }
   },
